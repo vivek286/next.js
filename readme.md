@@ -1,2 +1,2 @@
 ## NEXT JS EXAMPLES
-### Templates to different modules
+### Templates to different types of implemented basic function
